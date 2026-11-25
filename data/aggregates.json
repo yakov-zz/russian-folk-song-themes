@@ -5381,21 +5381,21 @@
    "unmapped_names": {}
   },
   "region_books": {
-   "terek": 8,
-   "dnieper_left": 5,
-   "north": 16,
-   "volga": 10,
-   "orenburg_host": 1,
-   "sloboda": 1,
-   "ural_host": 5,
-   "kuban": 8,
-   "north_west": 11,
-   "south_russian": 10,
-   "don": 8,
    "dnieper_right": 4,
    "centre": 13,
-   "siberia_far_east": 11,
-   "urals": 10
+   "urals": 10,
+   "orenburg_host": 1,
+   "volga": 10,
+   "sloboda": 1,
+   "dnieper_left": 5,
+   "kuban": 8,
+   "south_russian": 10,
+   "ural_host": 5,
+   "terek": 8,
+   "north_west": 11,
+   "north": 16,
+   "don": 8,
+   "siberia_far_east": 11
   }
  },
  "hypotheses": {
