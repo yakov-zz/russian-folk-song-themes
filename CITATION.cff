@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and cite the printed edition of any song you quote."
+type: dataset
+title: "What Russians Sang: themes of Russian folk songs read by three AI models"
+version: "1.0"
+license: CC-BY-4.0
+url: "https://yakov-zz.github.io/russian-folk-song-themes/"
+repository-code: "https://github.com/yakov-zz/russian-folk-song-themes"
+authors:
+  - given-names: "Yakov"
+    family-names: "Zhizhenkov"
+    orcid: "https://orcid.org/0009-0003-6304-4289"
+keywords: [folk song, Russian folklore, chastushki, corpus, thematic coding, large language models]

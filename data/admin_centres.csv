@@ -1,0 +1,63 @@
+key,name_en,lat,lon,country_today,names_in_data
+arkhangelsk,Arkhangelsk,64.54,40.54,RU,Архангельская|Архангельская область|Архангельская губерния|Архангельская обл.
+vologda,Vologda,59.22,39.89,RU,Вологодская
+petrozavodsk,Olonets / Karelia (Petrozavodsk),61.79,34.36,RU,Олонецкая|Карельская АССР
+syktyvkar,Komi (Syktyvkar),61.67,50.84,RU,Коми АССР
+perm,Perm,58.01,56.25,RU,Пермская
+vyatka,Vyatka / Kirov,58.60,49.66,RU,Вятская|Вятская губерния|Кировская
+kazan,Kazan,55.79,49.12,RU,Казанская
+ufa,Ufa,54.74,55.97,RU,Уфимская
+simbirsk,Simbirsk (Ulyanovsk),54.32,48.40,RU,Симбирская
+samara,Samara,53.20,50.15,RU,Самарская
+saratov,Saratov,51.53,46.03,RU,Саратовская|Саратовская губерния
+penza,Penza,53.20,45.00,RU,Пензенская
+astrakhan,Astrakhan,46.35,48.04,RU,Астраханская
+orenburg,Orenburg,51.77,55.10,RU,Оренбургская
+uralsk,Ural Host (Uralsk / Oral),51.23,51.37,KZ,Уральская область
+chelyabinsk,Chelyabinsk,55.16,61.40,RU,Челябинская
+kurgan,Kurgan,55.44,65.34,RU,Курганская
+tyumen,Tyumen,57.15,65.53,RU,Тюменская
+tobolsk,Tobolsk,58.20,68.25,RU,Тобольская
+omsk,Omsk,54.99,73.37,RU,Омская
+novosibirsk,Novosibirsk,55.03,82.92,RU,Новосибирская
+tomsk,Tomsk,56.48,84.95,RU,Томская
+kemerovo,Kemerovo,55.35,86.09,RU,Кемеровская
+barnaul,Altai (Barnaul),53.35,83.78,RU,Алтайский край
+krasnoyarsk,Yeniseysk / Krasnoyarsk,56.01,92.85,RU,Красноярский край|Енисейская
+irkutsk,Irkutsk,52.29,104.28,RU,Иркутская
+chita,Transbaikal (Chita),52.03,113.50,RU,Забайкальская
+yakutsk,Yakutsk,62.03,129.73,RU,Якутская
+blagoveshchensk,Amur (Blagoveshchensk),50.29,127.53,RU,Амурская
+khabarovsk,Khabarovsk,48.48,135.08,RU,Хабаровский край
+vladivostok,Primorye (Vladivostok),43.12,131.89,RU,Приморский край
+stpetersburg,St Petersburg / Leningrad,59.94,30.31,RU,С.-Петербургская|Ленинградская
+novgorod,Novgorod,58.52,31.27,RU,Новгородская
+pskov,Pskov,57.82,28.33,RU,Псковская|Псковская губерния
+tver,Tver,56.86,35.90,RU,Тверская
+moscow,Moscow,55.76,37.62,RU,Московская|Московская губерния
+yaroslavl,Yaroslavl,57.63,39.87,RU,Ярославская|Ярославская область
+kostroma,Kostroma,57.77,40.93,RU,Костромская|Костромская обл.
+ivanovo,Ivanovo,57.00,40.97,RU,Ивановская
+vladimir,Vladimir,56.13,40.41,RU,Владимирская|Владимирская губерния
+nizhny,Nizhny Novgorod,56.33,44.00,RU,Нижегородская
+ryazan,Ryazan,54.63,39.74,RU,Рязанская
+tula,Tula,54.19,37.62,RU,Тульская
+kaluga,Kaluga,54.51,36.26,RU,Калужская|Калужская область|Калужская обл.
+smolensk,Smolensk,54.78,32.05,RU,Смоленская
+oryol,Oryol,52.97,36.07,RU,Орловская
+kursk,Kursk,51.73,36.19,RU,Курская|Курская губерния
+tambov,Tambov,52.72,41.45,RU,Тамбовская
+voronezh,Voronezh,51.67,39.18,RU,Воронежская|Воронежская губерния
+novocherkassk,Don Host (Novocherkassk),47.42,40.09,RU,Область Войска Донского
+krasnodar,Kuban (Yekaterinodar / Krasnodar),45.04,38.98,RU,Кубанская область
+vladikavkaz,Terek (Vladikavkaz),43.02,44.68,RU,Терская область
+kharkiv,Kharkiv,49.99,36.23,UA,Харьковская|Харьковская губерния
+poltava,Poltava,49.59,34.55,UA,Полтавская
+chernihiv,Chernihiv,51.49,31.29,UA,Черниговская|Черниговская губерния
+kyiv,Kyiv,50.45,30.52,UA,Киевская
+zhytomyr,Volhynia (Zhytomyr),50.25,28.66,UA,Волынская|Волынская губерния
+kamianets,Podolia (Kamianets-Podilskyi),48.68,26.58,UA,Подольская
+kherson,Kherson,46.64,32.62,UA,Херсонская
+yekaterinoslav,Yekaterinoslav (Dnipro),48.46,35.05,UA,Екатеринославская
+hrodna,Grodno (Hrodna),53.68,23.83,BY,Гродненская
+minsk,Minsk,53.90,27.56,BY,Минская

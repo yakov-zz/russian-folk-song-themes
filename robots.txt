@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yakov-zz.github.io/russian-folk-song-themes/sitemap.xml
