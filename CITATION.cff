@@ -6,6 +6,7 @@ version: "1.0"
 license: CC-BY-4.0
 url: "https://yakov-zz.github.io/russian-folk-song-themes/"
 repository-code: "https://github.com/yakov-zz/russian-folk-song-themes"
+doi: "10.5281/zenodo.24539716"
 authors:
   - given-names: "Yakov"
     family-names: "Zhizhenkov"

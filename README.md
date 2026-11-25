@@ -7,7 +7,7 @@ This repository is the built site, served by GitHub Pages. The dataset (one row 
 place, date and source edition) is in [`data/`](data/), with its own README.
 
 - **Licences:** data and labels CC BY 4.0 ([`data/LICENSE`](data/LICENSE)); site code MIT ([`LICENSE`](LICENSE)).
-- **Citation:** see [`CITATION.cff`](CITATION.cff) or the About page; for any song, also cite its printed edition.
+- **Citation:** DOI [10.5281/zenodo.24539716](https://doi.org/10.5281/zenodo.24539716) (Zenodo, all versions); see [`CITATION.cff`](CITATION.cff) or the About page; for any song, also cite its printed edition.
 - **Corrections:** open an Issue. Questions: Discussions.
 - **Known gaps** in this version are listed on the About page.
 
